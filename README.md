@@ -9,10 +9,10 @@
 ### 수업 자료
 |Week|Topic|Notebook|
 |:--:|--|:--:|
-|1|Image Classification|[📔](https://github.com/kec0130/AIFFEL_TFMaster/blob/main/tf01_image_classification.ipynb)|
-|2|Text Classification||
-|3|Regression||
-|4|Save and Load Models||
-|5|Overfit and Underfit||
-|6|Load and Preprocess Images||
-|7|The Functional API||
+|1|Image Classification|[📔](https://www.tensorflow.org/tutorials/keras/classification)|
+|2|Text Classification||[📕](https://www.tensorflow.org/tutorials/keras/text_classification)
+|3|Regression||[📗](https://www.tensorflow.org/tutorials/keras/regression)
+|4|Save and Load Models||[📘](https://www.tensorflow.org/tutorials/keras/save_and_load)
+|5|Overfit and Underfit||[📙](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
+|6|Load and Preprocess Images||[📒](https://www.tensorflow.org/tutorials/load_data/images)
+|7|The Functional API||[📚](https://www.tensorflow.org/guide/keras/functional)
