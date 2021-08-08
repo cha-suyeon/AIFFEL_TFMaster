@@ -10,7 +10,7 @@
 |Week|Topic|Notebook|
 |:--:|--|:--:|
 |01|Image Classification|[📔](https://www.tensorflow.org/tutorials/keras/classification)
-|02|Text Classification||[📕](https://www.tensorflow.org/tutorials/keras/text_classification)
+|02|Text Classification|| [📕](https://www.tensorflow.org/tutorials/keras/text_classification)
 |03|Regression| [📗](https://www.tensorflow.org/tutorials/keras/regression)
 |04|Save and Load Models| [📘](https://www.tensorflow.org/tutorials/keras/save_and_load)
 |05|Overfit and Underfit| [📙](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit)
