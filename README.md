@@ -1,4 +1,5 @@
 # AIFFEL TF Master Flipped School
+Facilitator: 고은채
 
 ![image](https://user-images.githubusercontent.com/84028683/152485493-6aeed654-3f12-445e-b285-92b299ae3ca4.png)
 
