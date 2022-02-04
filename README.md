@@ -9,7 +9,7 @@ Facilitator: 고은채
 - 라이브 코딩을 통해 Tensorflow Tutorial을 익히는 스터디입니다.
 - Date: 2021.07.14~09.01
 - 주관: 모두의연구소 AIFFEL
-- [수업 소개 페이지 ↗️](https://www.notion.so/modulabs/TF-Master-TF-aa8d18073e1646a1becf19fb7bb1d694)
+- [Flipped School Notion](https://www.notion.so/modulabs/TF-Master-TF-5-aa8d18073e1646a1becf19fb7bb1d694)
 
 </br>
 
