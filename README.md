@@ -1,5 +1,7 @@
 # AIFFEL TF Master Flipped School
 
+![image](https://user-images.githubusercontent.com/84028683/152485493-6aeed654-3f12-445e-b285-92b299ae3ca4.png)
+
 ### 과정 소개
 - Studying [Tensorflow Tutorial](https://www.tensorflow.org/tutorials)
 - 라이브 코딩을 통해 Tensorflow Tutorial을 익히는 수업입니다.
