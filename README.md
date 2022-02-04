@@ -23,7 +23,7 @@ Facilitator: 고은채
 |04|Save and Load Models|August 11, 2021|[🔗](https://github.com/cha-suyeon/AIFFEL_TFmaster/blob/main/tf04_Save_and_load_models.ipynb)|정민지, 유효정
 |05|Overfit and Underfit|August 18, 2021|[🔗](https://github.com/cha-suyeon/AIFFEL_TFmaster/blob/main/tf05_Overfit_and_underfit.ipynb)|차수연, 김경준
 |06|Load and Preprocess Images|August 25, 2021|[🔗](https://github.com/cha-suyeon/AIFFEL_TFmaster/blob/main/tf06_Load_and_preprocess_images.ipynb)|신태경, 우범진
-|07|The Functional API|September 1, 2021|[🔗](https://www.tensorflow.org/guide/keras/functional)|류제성, 김경준
+|07|The Functional API|September 1, 2021|[🔗](https://github.com/cha-suyeon/AIFFEL_TFmaster/blob/main/tf07_functional.ipynb)|류제성, 김경준
 
 </br>
 
